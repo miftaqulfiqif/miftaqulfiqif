@@ -1,10 +1,10 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Miftaqul Fiqi Firmansyah**.<br>
+Saya seorang Fresh Graduate dari Universitas Ahmad Dahlan dengan latar belakang pendidikan di <br>
+bidang IT. Memiliki kecintaan dan minat yang mendalam terhadap teknologi, saya bersemangat untuk <br>
+mengeksplorasi berbagai peluang dalam dunia IT. <br>
 
-Saya seorang **Mahasiswa Informatika** di Universitas Ahmad Dahlan.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/miftaqul-fiqi-firmansyah-3a34ba221/])ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/miftaqul-fiqi-firmansyah/])ku ya.
 
 ### Github Statistic
 <p align = "left">
