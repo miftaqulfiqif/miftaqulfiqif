@@ -4,7 +4,8 @@ Saya seorang Fresh Graduate dari Universitas Ahmad Dahlan dengan latar belakang 
 bidang IT. Memiliki kecintaan dan minat yang mendalam terhadap teknologi, saya bersemangat untuk <br>
 mengeksplorasi berbagai peluang dalam dunia IT. <br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/miftaqul-fiqi-firmansyah/])ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin] ku ya.
+[https://www.linkedin.com/in/miftaqul-fiqi-firmansyah/]
 
 ### Github Statistic
 <p align = "left">
