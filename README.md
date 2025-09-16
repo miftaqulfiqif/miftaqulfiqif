@@ -5,10 +5,6 @@ projects, including IoT Gateway systems and enterprise web applications. Profici
 development technologies, with a strong commitment to building scalable, modular, and impactful digital
 solutions. Highly adaptable, quick to learn, and eager to contribute to technological innovation.
 
-Saya seorang Fresh Graduate dari Universitas Ahmad Dahlan dengan latar belakang pendidikan di <br>
-bidang IT. Memiliki kecintaan dan minat yang mendalam terhadap teknologi, saya bersemangat untuk <br>
-mengeksplorasi berbagai peluang dalam dunia IT. <br>
-
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin] ku ya.
 [https://www.linkedin.com/in/miftaqul-fiqi-firmansyah/]
 
